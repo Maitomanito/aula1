@@ -1,5 +1,4 @@
-let nombre = "juan";
-let apellido = "Narvaez";
-
-console.log("nombre");
-console.log("apellido");
+const nombreEmpleado = "José Perez";
+let direccion = "Av.105 - Calle 3";
+var costoDelPasaje = 1500;
+let tasaEmbarque = 50.5;
